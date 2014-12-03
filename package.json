@@ -1,0 +1,16 @@
+{
+  "name": "cocolog2hatenablog_p141202",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "protractor": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pretest": "webdriver-manager update",
+    "test": "protractor"
+  },
+  "author": "Tatsuro Ueda",
+  "license": "ISC"
+}
